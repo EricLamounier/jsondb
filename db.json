@@ -1,29 +1,4 @@
 {
-  "people": [
-    {
-      "id": 0,
-      "nickname": "-0",
-      "date": "0"
-    },
-    {
-      "nickname": "!Nath",
-      "date": " - {27/12/2022}",
-      "id": 1
-    },
-    {
-      "nickname": "Beyoung",
-      "date": " - {27/12/2022}",
-      "id": 2
-    },
-    {
-      "nickname": "Penalizador",
-      "date": " - {28/12/2022}",
-      "id": 3
-    },
-    {
-      "nickname": "Ramo-Policial",
-      "date": " - {28/12/2022}",
-      "id": 4
-    }
+  "products": [
   ]
 }
